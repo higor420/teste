@@ -3,3 +3,4 @@
 * criar classes
 * criar ID's
 * usar CSS inçine, interno e externo
+adicao de flexnox
